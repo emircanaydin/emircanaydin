@@ -4,4 +4,4 @@
 
 - ⚙️ I use daily: `swift`
 - 🌱 Learning all about **iOS**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/emircanaydin)
+- 📫 Reach me: [twitter.com/emircanaydin](https://twitter.com/emircanaydin)
